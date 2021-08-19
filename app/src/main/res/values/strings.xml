@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Temperature converter App</string>
+    <string name="appHeading" />
+    <string name="fahrenheit">Fahrenheit</string>
+    <string name="Results">Results</string>
+    <string name="f_c"><![CDATA[F->C]]></string>
+    <string name="submit">Submit</string>
+    <string name="todo">TODO</string>
+    <string name="give_the_temperature">Give the temperature</string>
+    <string name="c_f"><![CDATA[C->F]]></string>
+    <string name="convert">Convert</string>
+
+
+</resources>
